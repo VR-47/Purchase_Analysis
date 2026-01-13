@@ -142,12 +142,12 @@ Each analysis follows a structured approach:
 ---
 
 ## 📁 Repository Structure
-/data
-'''text
-├── db_ingestion.py # SQL joins and data loading
-├── Purchase_Analysis.ipynb # Main analysis notebook
+```text
+data/
+├── db_ingestion.py          # SQL joins and data loading
+├── Purchase_Analysis.ipynb  # Main analysis notebook
 ├── README.md
-'''
+```
 
 ---
 
