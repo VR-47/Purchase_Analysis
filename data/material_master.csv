@@ -1,0 +1,13 @@
+material_id,material_name,material_category,unit_price,unit
+101,Steel Rod,Raw,550,Kg
+102,Copper Wire,Electrical,720,Meter
+103,Transformer Oil,Electrical,300,Liter
+104,Bolts and Nuts,Mechanical,15,Piece
+105,Aluminium Sheet,Raw,480,Kg
+106,Insulation Tape,Electrical,25,Roll
+107,Gear Assembly,Mechanical,2200,Piece
+108,Control Panel,Electrical,15000,Piece
+109,Bearings,Mechanical,350,Piece
+110,Power Cables,Electrical,1200,Meter
+111,Switchgear,Electrical,9500,Piece
+112,Hydraulic Pump,Mechanical,18000,Piece

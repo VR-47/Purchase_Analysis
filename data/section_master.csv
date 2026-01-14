@@ -1,0 +1,241 @@
+section_id,section_name,department_id
+1,Raw Materials,1
+2,Electrical,1
+3,Mechanical,1
+4,CAPEX,1
+5,Services,1
+6,Raw Materials,2
+7,Electrical,2
+8,Mechanical,2
+9,CAPEX,2
+10,Services,2
+11,Raw Materials,3
+12,Electrical,3
+13,Mechanical,3
+14,CAPEX,3
+15,Services,3
+16,Raw Materials,4
+17,Electrical,4
+18,Mechanical,4
+19,CAPEX,4
+20,Services,4
+21,Raw Materials,5
+22,Electrical,5
+23,Mechanical,5
+24,CAPEX,5
+25,Services,5
+26,Raw Materials,6
+27,Electrical,6
+28,Mechanical,6
+29,CAPEX,6
+30,Services,6
+31,Raw Materials,7
+32,Electrical,7
+33,Mechanical,7
+34,CAPEX,7
+35,Services,7
+36,Raw Materials,8
+37,Electrical,8
+38,Mechanical,8
+39,CAPEX,8
+40,Services,8
+41,Raw Materials,9
+42,Electrical,9
+43,Mechanical,9
+44,CAPEX,9
+45,Services,9
+46,Raw Materials,10
+47,Electrical,10
+48,Mechanical,10
+49,CAPEX,10
+50,Services,10
+51,Raw Materials,11
+52,Electrical,11
+53,Mechanical,11
+54,CAPEX,11
+55,Services,11
+56,Raw Materials,12
+57,Electrical,12
+58,Mechanical,12
+59,CAPEX,12
+60,Services,12
+61,Raw Materials,13
+62,Electrical,13
+63,Mechanical,13
+64,CAPEX,13
+65,Services,13
+66,Raw Materials,14
+67,Electrical,14
+68,Mechanical,14
+69,CAPEX,14
+70,Services,14
+71,Raw Materials,15
+72,Electrical,15
+73,Mechanical,15
+74,CAPEX,15
+75,Services,15
+76,Raw Materials,16
+77,Electrical,16
+78,Mechanical,16
+79,CAPEX,16
+80,Services,16
+81,Raw Materials,17
+82,Electrical,17
+83,Mechanical,17
+84,CAPEX,17
+85,Services,17
+86,Raw Materials,18
+87,Electrical,18
+88,Mechanical,18
+89,CAPEX,18
+90,Services,18
+91,Raw Materials,19
+92,Electrical,19
+93,Mechanical,19
+94,CAPEX,19
+95,Services,19
+96,Raw Materials,20
+97,Electrical,20
+98,Mechanical,20
+99,CAPEX,20
+100,Services,20
+101,Raw Materials,21
+102,Electrical,21
+103,Mechanical,21
+104,CAPEX,21
+105,Services,21
+106,Raw Materials,22
+107,Electrical,22
+108,Mechanical,22
+109,CAPEX,22
+110,Services,22
+111,Raw Materials,23
+112,Electrical,23
+113,Mechanical,23
+114,CAPEX,23
+115,Services,23
+116,Raw Materials,24
+117,Electrical,24
+118,Mechanical,24
+119,CAPEX,24
+120,Services,24
+121,Raw Materials,25
+122,Electrical,25
+123,Mechanical,25
+124,CAPEX,25
+125,Services,25
+126,Raw Materials,26
+127,Electrical,26
+128,Mechanical,26
+129,CAPEX,26
+130,Services,26
+131,Raw Materials,27
+132,Electrical,27
+133,Mechanical,27
+134,CAPEX,27
+135,Services,27
+136,Raw Materials,28
+137,Electrical,28
+138,Mechanical,28
+139,CAPEX,28
+140,Services,28
+141,Raw Materials,29
+142,Electrical,29
+143,Mechanical,29
+144,CAPEX,29
+145,Services,29
+146,Raw Materials,30
+147,Electrical,30
+148,Mechanical,30
+149,CAPEX,30
+150,Services,30
+151,Raw Materials,31
+152,Electrical,31
+153,Mechanical,31
+154,CAPEX,31
+155,Services,31
+156,Raw Materials,32
+157,Electrical,32
+158,Mechanical,32
+159,CAPEX,32
+160,Services,32
+161,Raw Materials,33
+162,Electrical,33
+163,Mechanical,33
+164,CAPEX,33
+165,Services,33
+166,Raw Materials,34
+167,Electrical,34
+168,Mechanical,34
+169,CAPEX,34
+170,Services,34
+171,Raw Materials,35
+172,Electrical,35
+173,Mechanical,35
+174,CAPEX,35
+175,Services,35
+176,Raw Materials,36
+177,Electrical,36
+178,Mechanical,36
+179,CAPEX,36
+180,Services,36
+181,Raw Materials,37
+182,Electrical,37
+183,Mechanical,37
+184,CAPEX,37
+185,Services,37
+186,Raw Materials,38
+187,Electrical,38
+188,Mechanical,38
+189,CAPEX,38
+190,Services,38
+191,Raw Materials,39
+192,Electrical,39
+193,Mechanical,39
+194,CAPEX,39
+195,Services,39
+196,Raw Materials,40
+197,Electrical,40
+198,Mechanical,40
+199,CAPEX,40
+200,Services,40
+201,Raw Materials,41
+202,Electrical,41
+203,Mechanical,41
+204,CAPEX,41
+205,Services,41
+206,Raw Materials,42
+207,Electrical,42
+208,Mechanical,42
+209,CAPEX,42
+210,Services,42
+211,Raw Materials,43
+212,Electrical,43
+213,Mechanical,43
+214,CAPEX,43
+215,Services,43
+216,Raw Materials,44
+217,Electrical,44
+218,Mechanical,44
+219,CAPEX,44
+220,Services,44
+221,Raw Materials,45
+222,Electrical,45
+223,Mechanical,45
+224,CAPEX,45
+225,Services,45
+226,Raw Materials,46
+227,Electrical,46
+228,Mechanical,46
+229,CAPEX,46
+230,Services,46
+231,Raw Materials,47
+232,Electrical,47
+233,Mechanical,47
+234,CAPEX,47
+235,Services,47
+236,Raw Materials,48
+237,Electrical,48
+238,Mechanical,48
+239,CAPEX,48
+240,Services,48
