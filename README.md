@@ -1,4 +1,4 @@
-# 🏭 BHEL Purchase & Procurement Analysis  
+# 🏭 Purchase & Procurement Analysis  
 ### *(PSU Case Study)*
 
 ---
