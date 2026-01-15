@@ -125,19 +125,21 @@ Each analysis follows a structured approach:
 
 ## 📈 Key Insights
 
-- Procurement spend is concentrated among **limited plants and vendors**
-- Certain vendors show **consistent delivery delays**
-- Payment delays may negatively impact **vendor relationships**
-- High-priority orders indicate **planning inefficiencies**
+- Procurement spend shows seasonal peaks, indicating demand-driven purchasing
+- Department A accounts for the highest spend
+- Top 10 vendors dominate total spend, indicating concentration risk
+- A notable share of orders are high-priority, suggesting planning gaps
+- Delivery and payment delays impact operational efficiency
 
 ---
 
 ## 🧩 Management Recommendations
 
-- Diversify vendor base to reduce dependency risk  
-- Enforce SLA compliance for delayed vendors  
-- Improve demand forecasting and planning  
-- Streamline payment approval processes  
+- Negotiate better terms with high-spend vendors
+- Improve planning for peak procurement periods
+- Enforce tighter controls on high-spend departments
+- Streamline delivery and payment processes
+- Monitor and justify high-priority orders  
 
 ---
 
